@@ -27,3 +27,27 @@ Wie sicher behersche ich das gelernte: Es ist eher mittelmässig, weil ich das r
 Planung nächsten Arbeitsblock:
 
 Nächstes Mal werde ich versuchen die aufgabe 4208 fertig zu lösen und falls ich es immernoch nicht verstehe werde ich mich an ihnen wenden. Anschliessend werde ich mit der Aufgabe 4209 beginnen. 
+
+# 2.9.24
+
+Aufgabe 4209
+
+Dauer: 2h
+Neu gelernt: Co-Pilot richtig zu benutzen
+Probleme: Gewisse Begriffe habe ich falsch definiert und musste das Programm überarbeiten.
+
+Aufgabe 4210
+
+Dauer: 30 min
+Neu gelernt: Listen zu erstelllen
+Probleme: Musste immer die Theorie vergleichen als ich es selber ausprobieren wollte
+
+Aufgabe 4211
+
+Dauer: Noch nicht fertig 
+Neu gelernt: -
+Probleme: - 
+
+Planung für das nächste Arbeitsblock: 
+
+Ich werde weiter an Aufgabe 11 arbeiten, vermutlich schon am Freitag weil ich da Atelier habe. Anschliessend mache ich Aufgabe 12. Bei weiteren Fragen wende ich mich natürlich bei ihnen 
