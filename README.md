@@ -14,12 +14,15 @@
 Aufgabe 4208
 
 Dauer: 1h
+
 Neu Gelernt: Wie man Member miteinander verbindet also Vererbt
+
 Probleme: Es hat länger gedauert, weil ich mehrmals mit der Powerpoint verglichen habe und die Vererbungen am anfang einbisschen verwirrend waren.
 
 Aufgabe 4208
 
 Dauer: Noch nicht fertig
+
 Probleme: Ich bin mir nicht sicher wie ich gewisse UML in Code umsetzen kann. 
 
 Wie sicher behersche ich das gelernte: Es ist eher mittelmässig, weil ich das repetieren muss damit das in meinem Kopf bleibt. 
@@ -33,13 +36,17 @@ Nächstes Mal werde ich versuchen die aufgabe 4208 fertig zu lösen und falls ic
 Aufgabe 4209
 
 Dauer: 2h
+
 Neu gelernt: Co-Pilot richtig zu benutzen
+
 Probleme: Gewisse Begriffe habe ich falsch definiert und musste das Programm überarbeiten.
 
 Aufgabe 4210
 
 Dauer: 30 min
+
 Neu gelernt: Listen zu erstelllen
+
 Probleme: Musste immer die Theorie vergleichen als ich es selber ausprobieren wollte
 
 Aufgabe 4211
@@ -67,7 +74,9 @@ Probleme: keine
 Aufgabe 4216
 
 Dauer: -
-Neu Gelernt: Sequenzdiagramm 
+
+Neu Gelernt: Wie ein Sequenzendiagramm ausehen kann und was die Pfeile bedeuten
+
 Probleme: Mir fällt es schwer den Sequenzdiagramm in Code umzuwandeln
 
 Ansonsten war es ein produktiver Tag, diesmals konnte ich von zu Hause aus Arbeiten weil Bildnerisches Gestalten ausgefallen ist. Aufgabe 4216 werde uch am Freitag fertig lösen und bei weiteren Fragen werde ich mich an ihnen wenden. 
