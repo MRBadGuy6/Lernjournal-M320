@@ -58,8 +58,11 @@ Ich werde weiter an Aufgabe 11 arbeiten, vermutlich schon am Freitag weil ich da
 Aufgabe 4215
 
 Dauer: 45 min
+
 Neu gelernt: Nicht jede Zeile Code braucht eine erklärung
+
 Probleme: keine
+
 
 Aufgabe 4216
 
