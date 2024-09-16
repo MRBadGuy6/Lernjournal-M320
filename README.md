@@ -71,6 +71,8 @@ Neu gelernt: Nicht jede Zeile Code braucht eine erklärung
 Probleme: keine
 
 
+
+
 Aufgabe 4216
 
 Dauer: -
