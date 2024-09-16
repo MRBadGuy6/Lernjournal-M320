@@ -51,3 +51,20 @@ Probleme: -
 Planung für das nächste Arbeitsblock: 
 
 Ich werde weiter an Aufgabe 11 arbeiten, vermutlich schon am Freitag weil ich da Atelier habe. Anschliessend mache ich Aufgabe 12. Bei weiteren Fragen wende ich mich natürlich bei ihnen 
+
+
+# 16.9.24 
+
+Aufgabe 4215
+
+Dauer: 45 min
+Neu gelernt: Nicht jede Zeile Code braucht eine erklärung
+Probleme: keine
+
+Aufgabe 4216
+
+Dauer: -
+Neu Gelernt: Sequenzdiagramm 
+Probleme: Mir fällt es schwer den Sequenzdiagramm in Code umzuwandeln
+
+Ansonsten war es ein produktiver Tag, diesmals konnte ich von zu Hause aus Arbeiten weil Bildnerisches Gestalten ausgefallen ist. Aufgabe 4216 werde uch am Freitag fertig lösen und bei weiteren Fragen werde ich mich an ihnen wenden. 
